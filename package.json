@@ -1,0 +1,36 @@
+{
+  "name": "freediscord",
+  "version": "2.5.0",
+  "description": "Professional Discord Booster for Russia with DPI bypass, WebRTC/UDP voice support and PyUI console engine",
+  "main": "src/main.py",
+  "scripts": {
+    "start": "python src/main.py",
+    "setup": "python src/installer.py",
+    "install-deps": "python -m pip install -r requirements.txt",
+    "test": "python -c \"import sys; sys.path.insert(0, 'src'); import pyui, booster_engine, discord_launcher, network_utils; print('FreeDiscord ready!')\"",
+    "build": "pyinstaller --onefile --noconsole --name FreeDiscord src/main.py",
+    "clean": "powershell -Command \"Remove-Item -Recurse -Force __pycache__, dist, build/bdist* -ErrorAction SilentlyContinue\""
+  },
+  "keywords": [
+    "discord",
+    "booster",
+    "dpi-bypass",
+    "zapret",
+    "winws",
+    "webrtc",
+    "pyui",
+    "russia-unblock"
+  ],
+  "author": "FreeDiscord Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/FreeDiscord.git"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "os": [
+    "win32"
+  ]
+}
