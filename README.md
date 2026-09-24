@@ -1,3 +1,8 @@
+# РАЗРАБОТЧИК zapret FLOWSEAL
+> https://github.com/Flowseal - оригинальная ссылка на профиль разработчика flowseal
+> https://github.com/Flowseal/zapret-discord-youtube - репозиторий zapret который был взят 
+> https://github.com/bol-van - самый первый разработчик zapret, https://github.com/bol-van/zapret - ссылка
+
 # FreeDiscord - Selects a Banning Strategy
 
 <p align="center">
@@ -149,3 +154,6 @@ FreeDiscord/
 ## 📄 Лицензия
 
 Распространяется под лицензией MIT. Подробности в файле LICENSE.
+
+> Zapret предоставляется прямо в архиве, если вы не уверены что в src/core лежит zapret без вирусов то вы сможете скачать zapret с офф репозитория Flowseal
+
