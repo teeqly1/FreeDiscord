@@ -6,7 +6,7 @@
 > https://github.com/bol-van - самый первый разработчик zapret, https://github.com/bol-van/zapret - ссылка
 
 # FreeDiscord - Selects a Banning Strategy
-
+![Logo](logo.png)
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
