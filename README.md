@@ -1,6 +1,8 @@
 # РАЗРАБОТЧИК zapret FLOWSEAL
 > https://github.com/Flowseal - оригинальная ссылка на профиль разработчика flowseal
+
 > https://github.com/Flowseal/zapret-discord-youtube - репозиторий zapret который был взят 
+
 > https://github.com/bol-van - самый первый разработчик zapret, https://github.com/bol-van/zapret - ссылка
 
 # FreeDiscord - Selects a Banning Strategy
